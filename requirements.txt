@@ -1,6 +1,5 @@
 alabaster==0.7.12
 anaconda-client==1.2.2
-anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 argh==0.26.2
 argon2-cffi==20.1.0
@@ -67,6 +66,7 @@ gevent @ file:///C:/ci/gevent_1602688248049/work
 glob2==0.7
 gmpy2==2.0.8
 greenlet @ file:///C:/ci/greenlet_1600874075818/work
+gunicorn==20.0.1
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
